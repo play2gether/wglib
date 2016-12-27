@@ -1,3 +1,3 @@
 asynctest
-pytest-asyncio
+pytest-asyncio==0.5.0
 coveralls
